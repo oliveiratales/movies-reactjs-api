@@ -1,6 +1,6 @@
 # FamilyFlix 🎥
 
-Projeto responsivo de um site de filmes, ao estilo Netflix, desenvolvido com ![pngwing com (7)](https://github.com/oliveiratales/movies-reactjs-api/assets/118945743/49d4e161-5da1-47e0-bda3-ad0acb7d67e7)React.js e consumindo a TMDb API.
+Projeto responsivo de um site de filmes, ao estilo Netflix, desenvolvido com ![pngwing com (7)](https://github.com/oliveiratales/movies-reactjs-api/assets/118945743/49d4e161-5da1-47e0-bda3-ad0acb7d67e7) React.js e consumindo a TMDb API.
 
 ![image](https://github.com/oliveiratales/movies-reactjs-api/assets/118945743/3501285d-37fd-445a-83ac-29822c840f1f)
 
